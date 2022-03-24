@@ -2,6 +2,9 @@
 
 This code sample shows how to use [Alexa Entities](https://developer.amazon.com/en-US/docs/alexa/custom-skills/alexa-entities-reference.html) to build a skill using Alexa's knowledge graph.
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 ## What You Will Need
 
 * [Amazon Developer Account](http://developer.amazon.com/alexa)
